@@ -51,9 +51,7 @@ You can run the file named [main.py](main.py) and load your audio file and test 
 
 ![start](https://github.com/onurkya7/AudioDeepFakeDetection/assets/100594545/caec9967-ccea-4e52-b550-76755a0c0305)
 
-## License
 
-Our project is licensed under the [MIT License](LICENSE).
 
 
 
